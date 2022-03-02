@@ -1,0 +1,84 @@
+.clr{
+    clear: both;
+}
+
+.startBtn{
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.block1{
+    float: left;
+    width: 40%;
+}
+
+.player1{
+    text-align: left;
+    padding-top: 1em;
+    padding-left: 6.5em;
+    padding-bottom: 0.2em;
+}
+
+.won1{
+    text-align: left;
+    padding-top: 1em;
+    padding-left: 6.5em;
+    padding-bottom: 0.2em;
+    float: left;
+    width: 40%;
+}
+
+.usedAttack1{
+    text-align: left;
+    padding-left: 5.3em;
+    padding-bottom: 2em;
+}
+
+.attackBtn1{
+    text-align: left;
+    padding-left: 5.3em;
+    padding-bottom: 2em;
+}
+
+.block2{
+    float: right;
+    width: 40%;
+}
+
+.player2{
+    text-align: right;
+    padding-top: 1em;
+    padding-right: 6.5em;
+    padding-bottom: 0.2em;
+}
+
+.won2{
+    text-align: right;
+    padding-top: 1em;
+    padding-right: 6.5em;
+    padding-bottom: 0.2em;
+    float: right;
+    width: 40%;
+}
+
+.usedAttack2{
+    text-align: right;
+    padding-right: 5.3em;
+    padding-bottom: 2em;
+}
+
+.attackBtn2{
+    text-align: right;
+    padding-right: 5.3em;
+    padding-bottom: 2em;
+}
+
+.update{
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.endBtn{
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
